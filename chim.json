@@ -1,0 +1,60 @@
+{
+  "Search": [
+
+     {
+      "cd_prod": 244,
+      "cd_category": 4,
+      "nm_category": "Thức ăn",
+      "nm_product": "Cám cho chim",
+      "amount": 277,
+      "species": "Chim",
+      "product_price": 195000,
+      "description": "500 g ",
+      "date_prod": "2021-05-19",
+      "shelf_life": "19/08/2022",
+      "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_shopping.png?alt=media&token=cea08971-6ced-4417-9a69-7b0764962b7d",
+      "popular": 0
+    },{
+      "cd_prod": 1494,
+      "cd_category": 4,
+      "nm_category": "Thức ăn",
+      "nm_product": "Thức ăn cho Chim",
+      "amount": 142,
+      "species": "Chim",
+      "product_price": 50000,
+      "description": " 500g",
+      "date_prod": "2021-06-29",
+      "shelf_life": "14/04/2055",
+      "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_alpiste-removebg-preview.png?alt=media&token=f264e9eb-f5b0-4e13-ac90-2f2ff74da68d",
+      "popular": 0
+    },{
+      "cd_prod": 1324,
+      "cd_category": 14,
+      "nm_category": "Thuốc",
+      "nm_product": "Thuốc nhỏ cho chim",
+      "amount": 300,
+      "species": "Chim",
+      "product_price": 1090000,
+      "description": "Các tác nhân hóa trị liệu tạo nên ZOOSERINE® có các cơ chế hoạt động khác nhau, có tác dụng kìm khuẩn và tác dụng hiệp đồng hoặc cộng hưởng. Các kết hợp kháng sinh dạng này ngăn ngừa sự xuất hiện của đề kháng chéo hoặc đề kháng theo nhóm và giảm thiểu nguy cơ độc tính khi được sử dụng trong điều trị các bệnh nhiễm trùng hỗn hợp do các tác nhân gây bệnh không nhạy cảm với một loại kháng khuẩn thông thường.",
+      "date_prod": "2021-06-29",
+      "shelf_life": "01/12/2024",
+      "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_D_NQ_NP_909966-MLB31135302140_062019-O-removebg-preview.png?alt=media&token=98886c81-4bb0-45b9-aadf-54dc60bafcc5",
+      "popular": 0
+    },
+    {
+      "cd_prod": 1094,
+      "cd_category": 4,
+      "nm_category": "Thức ăn",
+      "nm_product": "Thuốc kháng sinh Avitrin Coveli 10ml",
+      "amount": 6,
+      "species": "Chim",
+      "product_price": 399000,
+      "description": "Kháng sinh",
+      "date_prod": "2021-06-26",
+      "shelf_life": "12/09/2023",
+      "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_Avitrin_Abtibiotico.png?alt=media&token=a46e996c-4afa-46a4-a4d7-aeaadc68344a",
+      "popular": 0
+    }
+    
+  ]
+}
