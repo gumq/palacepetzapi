@@ -1,1 +1,47 @@
-{"Search":[{"cd_prod":184,"cd_category":4,"nm_category":"Alimentos","nm_product":"Racão Golden","amount":31,"species":"Dogs","product_price":198,"description":"Racao ideal para cachorros de porte grande","date_prod":"2021-05-13","shelf_life":"15/02/2023","image_prod":"https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_Rac%C3%A3o%20Golden?alt=media&token=c2cfdd5b-fc9b-4a5e-bcba-9c2acceddcab","popular":1},{"cd_prod":1364,"cd_category":24,"nm_category":"Acessórios","nm_product":"Capa de Chuva - Elegance","amount":75,"species":"Dogs","product_price":70,"description":"Tecido impermeável.","date_prod":"2021-06-29","shelf_life":"20/03/2041","image_prod":"https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_capa-de-chuva-removebg-preview.png?alt=media&token=a073aac5-1eb8-4e02-8b1f-7c3c3af81edf","popular":1},{"cd_prod":1084,"cd_category":14,"nm_category":"Medicamentos","nm_product":"Remedio para coelho","amount":11,"species":"Rabbit","product_price":80,"description":"90ml","date_prod":"2021-06-25","shelf_life":"25/06/2023","image_prod":"https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_remedio_coelho.png?alt=media&token=ad843c85-4741-400a-97c4-07c3d5666871","popular":1}]}
+{
+  "Search": [
+   {
+    "cd_prod": 184,
+    "cd_category": 4,
+    "nm_category": "Thức ăn",
+    "nm_product": "Thức ăn cho Cún - Goden",
+    "amount": 31,
+    "species": "Chó",
+    "product_price": 198.000,
+    "description": "Thức ăn cho chó lý tưởng cho những con chó lớn",
+    "date_prod": "2021-05-13",
+    "shelf_life": "15/02/2023",
+    "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_Rac%C3%A3o%20Golden?alt=media&token=c2cfdd5b-fc9b-4a5e-bcba-9c2acceddcab",
+    "popular": 1
+  },
+  
+    {
+      "cd_prod": 1364,
+      "cd_category": 24,
+      "nm_category": "Phụ kiện",
+      "nm_product": "Áo mưa - Thanh lịch",
+      "amount": 75,
+      "species": "Chó",
+      "product_price": 70.000,
+      "description": "Áo mưa - Thanh lịch",
+      "date_prod": "2021-06-29",
+      "shelf_life": "20/03/2041",
+      "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_capa-de-chuva-removebg-preview.png?alt=media&token=a073aac5-1eb8-4e02-8b1f-7c3c3af81edf",
+      "popular": 1
+    },
+    {
+      "cd_prod": 224,
+      "cd_category": 34,
+      "nm_category": "Trang trí",
+      "nm_product": "Bổ sung dưỡng chất cho bể cá",
+      "amount": 0,
+      "species": "Cá",
+      "product_price": 490.000,
+      "description": "bổ sung dưỡng chất cho Bể cá",
+      "date_prod": "2021-05-19",
+      "shelf_life": "13/05/2022",
+      "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_Suplemento_Para_Aqu%C3%A1rios_MBreda_Macroplus_NPK.png?alt=media&token=c7d74c76-94be-4fda-9efe-ee3378c2ec26",
+      "popular": 1
+    }
+  ]
+}
