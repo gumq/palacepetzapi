@@ -1,19 +1,6 @@
 {
   "Search": [
-    {
-      "cd_prod": 1374,
-      "cd_category": 34,
-      "nm_category": "Trang trí",
-      "nm_product": "Trang trí siêu bể cá Tàu khổng lồ Caravela Inca",
-      "amount": 40,
-      "species": "Cá",
-      "product_price": 3000000,
-      "description": "Siêu cấp tàu thủy trang trí cho siêu bể cá mô hình ",
-      "date_prod": "2021-06-29",
-      "shelf_life": "12/08/2029",
-      "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_Enfeite_Lester_Caravela_Inca.png?alt=media&token=d5c22d19-7f09-4f73-99f9-4b95e6654515",
-      "popular": 0
-    },
+  
 {
   "cd_prod": 1074,
   "cd_category": 34,
@@ -27,7 +14,20 @@
   "shelf_life": "13/05/2022",
   "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_Shampoo%20Pet%20Society%20Hydra%20Groomers%20PRO%20Neutro?alt=media&token=fa5449d0-ffe2-40b5-a5d2-a06e76cdb899",
   "popular": 0
-},
+},  {
+      "cd_prod": 1374,
+      "cd_category": 34,
+      "nm_category": "Trang trí",
+      "nm_product": "Trang trí siêu bể cá Tàu khổng lồ Caravela Inca",
+      "amount": 40,
+      "species": "Cá",
+      "product_price": 3000000,
+      "description": "Siêu cấp tàu thủy trang trí cho siêu bể cá mô hình ",
+      "date_prod": "2021-06-29",
+      "shelf_life": "12/08/2029",
+      "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_Enfeite_Lester_Caravela_Inca.png?alt=media&token=d5c22d19-7f09-4f73-99f9-4b95e6654515",
+      "popular": 0
+    },
       {
         "cd_prod": 1514,
         "cd_category": 4,
