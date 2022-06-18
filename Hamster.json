@@ -1,0 +1,71 @@
+{
+  "Search": [
+{
+  "cd_prod": 214,
+  "cd_category": 24,
+  "nm_category": "Phụ kiện",
+  "nm_product": "Phụ kiện cho Chuột Hamster",
+  "amount": 97,
+  "species": "Hamster",
+  "product_price": 1230000,
+  "description": "Hamster nhà cho chuột",
+  "date_prod": "2021-05-19",
+  "shelf_life": "25/08/2025",
+  "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_Habitat_Chalesco.png?alt=media&token=09bfc4be-ba97-4545-ac84-e607f3ad5e6b",
+  "popular": 0
+},{
+  "cd_prod": 1444,
+  "cd_category": 24,
+  "nm_category": "Phụ kiện",
+  "nm_product": "vòi uống nước cho chuột hamster",
+  "amount": 123,
+  "species": "Hamster",
+  "product_price": 10000,
+  "description": "Cần thiết cho con chuột nhà bạn",
+  "date_prod": "2021-06-29",
+  "shelf_life": "22/06/2046",
+  "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_bebedouro-hamster-removebg-preview.png?alt=media&token=5921d12a-0a09-4442-aac3-45f272d6942f",
+  "popular": 0
+},
+{
+  "cd_prod": 174,
+  "cd_category": 4,
+  "nm_category": "Thức ăn",
+  "nm_product": "Thức ăn cho Hamster - 5kg",
+  "amount": 16,
+  "species": "Hamster",
+  "product_price": 3080000,
+  "description": "Thức ăn cao cấp cho hamster ",
+  "date_prod": "2021-05-13",
+  "shelf_life": "15/05/2050",
+  "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_Ra%C3%A7%C3%A3o%20Nutr%C3%B3pica%20Hamster%20-%205kg?alt=media&token=3612b106-8240-457c-892d-6b4793d7ec59",
+  "popular": 0
+},{
+  "cd_prod": 1304,
+  "cd_category": 24,
+  "nm_category": "Phụ kiện",
+  "nm_product": "Spinner cho loài gặm nhấm",
+  "amount": 150,
+  "species": "Hamster",
+  "product_price": 60000,
+  "description": "Quay nào",
+  "date_prod": "2021-06-29",
+  "shelf_life": "15/12/2065",
+  "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_gira-gira-roedores-removebg-preview.png?alt=media&token=8e6e6d0f-e8d7-47b1-97b6-270451c569f9",
+  "popular": 0
+},{
+  "cd_prod": 1334,
+  "cd_category": 24,
+  "nm_category": "Phụ kiện",
+  "nm_product": "Lồng mê cung cho Hamster ",
+  "amount": 120,
+  "species": "Hamster",
+  "product_price": 750000,
+  "description": "Mê cung hamster.",
+  "date_prod": "2021-06-29",
+  "shelf_life": "16/08/2090",
+  "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_labirinto-hamster-removebg-preview.png?alt=media&token=9bc6c73f-294d-43e5-bbc5-58a14e66a6b6",
+  "popular": 0
+}
+  ]
+}

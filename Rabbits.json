@@ -1,0 +1,58 @@
+{
+  "Search": [
+{
+  "cd_prod": 1264,
+  "cd_category": 14,
+  "nm_category": "Thuốc",
+  "nm_product": "Roevi Bổ sung cho Động vật gặm nhấm và Thỏ",
+  "amount": 50,
+  "species": "Thỏ",
+  "product_price": 150000,
+  "description": "phục vụ cho nhu cầu của các loài gặm nhấm. Đặc biệt thích hợp cho động vật nuôi bằng hạt, cho thời kỳ sinh sản và dưỡng bệnh. Nó có một mùi thơm và hương vị dễ chịu, mang lại cho nó sự chấp nhận tuyệt vời.",
+  "date_prod": "2021-06-29",
+  "shelf_life": "01/12/025",
+  "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_Screenshot_1-removebg-preview.png?alt=media&token=4d311ed7-975f-4f63-a306-49917c0da99e",
+  "popular": 0
+},{
+  "cd_prod": 1244,
+  "cd_category": 14,
+  "nm_category": "Thuốc",
+  "nm_product": "Thuốc đuổi côn trùng Francodex",
+  "amount": 200,
+  "species": "Thỏ",
+  "product_price": 387000,
+  "description": "Thuốc chống côn trùng cho thỏ, chuột lang và chồn hương",
+  "date_prod": "2021-06-29",
+  "shelf_life": "20/08/2025",
+  "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_82201-3283021740736-2_1_g-removebg-preview.png?alt=media&token=fa191565-3e97-4589-83e0-b16369424a1c",
+  "popular": 0
+},
+{
+  "cd_prod": 1084,
+  "cd_category": 14,
+  "nm_category": "Thuốc",
+  "nm_product": "Thuốc cho thỏ",
+  "amount": 11,
+  "species": "Thỏ",
+  "product_price": 80000,
+  "description": "90ml",
+  "date_prod": "2021-06-25",
+  "shelf_life": "25/06/2023",
+  "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_remedio_coelho.png?alt=media&token=ad843c85-4741-400a-97c4-07c3d5666871",
+  "popular": 1
+},{
+  "cd_prod": 1434,
+  "cd_category": 14,
+  "nm_category": "Thuốc",
+  "nm_product": "Thuốc bổ sung Labcon cho động vật gặm nhấm Roevit",
+  "amount": 80,
+  "species": "Thỏ",
+  "product_price": 130000,
+  "description": "Thích hợp cho các loài gặm nhấm và thỏ mini;",
+  "date_prod": "2021-06-29",
+  "shelf_life": "22/01/2023",
+  "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_1457960001873-removebg-preview.png?alt=media&token=36e6ac38-42fb-41d7-8036-993b346275d3",
+  "popular": 0
+}
+  ]
+}
