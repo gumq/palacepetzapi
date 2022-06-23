@@ -28,7 +28,9 @@
       "date_prod": "2021-06-29",
       "shelf_life": "20/03/2041",
       "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_capa-de-chuva-removebg-preview.png?alt=media&token=a073aac5-1eb8-4e02-8b1f-7c3c3af81edf",
-      "popular": 1
+      "popular": 1,
+           "linkshopee":"https://shopee.vn/Royal-Canin-Medium-Puppy-th%E1%BB%A9c-%C4%83n-kh%C3%B4-cho-ch%C3%B3-con-10-25kg-i.46897551.6200821119?sp_atk=d9c181b6-b0d3-4cb3-871c-a0ad8e4de195&xptdk=d9c181b6-b0d3-4cb3-871c-a0ad8e4de195"
+
     },
     {
       "cd_prod": 224,
@@ -42,7 +44,9 @@
       "date_prod": "2021-05-19",
       "shelf_life": "13/05/2022",
       "image_prod": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/products%2Fimages%2FProds_Suplemento_Para_Aqu%C3%A1rios_MBreda_Macroplus_NPK.png?alt=media&token=c7d74c76-94be-4fda-9efe-ee3378c2ec26",
-      "popular": 1
+      "popular": 1,
+           "linkshopee":"https://shopee.vn/Royal-Canin-Medium-Puppy-th%E1%BB%A9c-%C4%83n-kh%C3%B4-cho-ch%C3%B3-con-10-25kg-i.46897551.6200821119?sp_atk=d9c181b6-b0d3-4cb3-871c-a0ad8e4de195&xptdk=d9c181b6-b0d3-4cb3-871c-a0ad8e4de195"
+
     }
   ]
 }
