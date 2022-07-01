@@ -1,0 +1,24 @@
+{
+  "Search": [
+    {
+      "cd_category": 4,
+      "nm_category": "Thức Ăn",
+      "img_category": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/category%2Ficon_category_racao.png?alt=media&token=45ac56ff-deff-4b53-9e36-38b206575e36"
+    },
+    {
+      "cd_category": 14,
+      "nm_category": "Thuốc",
+      "img_category": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/category%2Ficon_category_medicamentos.png?alt=media&token=9351e165-32d3-4447-92eb-149019f63915"
+    },
+    {
+      "cd_category": 24,
+      "nm_category": "Vật dụng",
+      "img_category": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/category%2Ficon_category_acessorios.png?alt=media&token=f73b136a-4778-46c6-86fa-0b91c68d2dd7"
+    },
+    {
+      "cd_category": 34,
+      "nm_category": "Trang trí",
+      "img_category": "https://firebasestorage.googleapis.com/v0/b/palacepetz-22a1b.appspot.com/o/category%2Ficon_category_estetica.png?alt=media&token=1dc4e9aa-8ddf-4be4-8af8-1fbf921ebf87"
+    }
+  ]
+}
